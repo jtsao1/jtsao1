@@ -29,7 +29,12 @@ Adobe Creative Set :
 ![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-05122A?style=flat&logo=adobe-premierepro)&nbsp;
 
 #### 🤝🏻 Connect with Me
-
+<p>
+  <a href="https://www.linkedin.com/in/htsao/"><img src="https://img.shields.io/badge/-Jady%20Tsao-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:hsichint@usc.edu"><img src="https://img.shields.io/badge/-hsichint@usc.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://facebook.com/jadytsao"><img src="https://img.shields.io/badge/-@jadytsao-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+  <a href="https://www.youtube.com/channel/UC_GTVGZXiQSXNDUvkZ-NeyA"><img src="https://img.shields.io/badge/-Jady%20Tsao-d61c1c?style=flat&logo=Youtube&logoColor=white"/></a>
+</p>
 <!--
 **jtsao1/jtsao1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
