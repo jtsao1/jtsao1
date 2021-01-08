@@ -20,9 +20,9 @@ Healthcare enthusiast with a vision to make healthcare accessible to everyone on
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=adobe-premierepro)
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 - Platforms : 
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 - Adobe Creative Set :
 ![Lightroom](https://img.shields.io/badge/-Lightroon-05122A?style=flat&logo=adobe-lightroom)&nbsp;
