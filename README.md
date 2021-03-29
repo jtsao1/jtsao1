@@ -8,7 +8,7 @@ Healthcare enthusiast with a vision to make healthcare accessible to everyone on
 - 🎓🌗 Biomedical engineering (BS) + Computer Science (MS) hybrid
 - 🔭 I’m currently working on ... website on Gender in Dance
 - 🌱 I’m currently learning ... computer systems, android app dev
-- 📄 Resume
+- 📄 [Resume](https://drive.google.com/file/d/1bN8fzH8wz31QyGme8c_EVyJqtayJZCde/view?usp=sharing "JADY TSAO_resume")
 - 📫 Reach me at: hsichint@usc.edu
 - 😄 Pronouns: `[screw labels]`
 - 🙆‍♀️ Parts of me: `🌿nature lover` `💃dancer/choreographer` `⛰️hiker` `🍳brunch foodie` 
