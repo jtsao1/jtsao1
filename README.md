@@ -2,15 +2,16 @@
 ---------------------------------------------------------
 Healthcare enthusiast with a vision to make healthcare accessible to everyone on this planet. 🌏
 (and yes, Baymax is my lucky charm.)
+Current looking for a full time software engineering job in either tech or health tech.
 
 #### 👧 About me
 
-- 🎓🌗 Biomedical engineering (BS) + Computer Science (MS) hybrid
+- 🎓🌗 USC Computer Science (MS) Biomedical engineering (BS) hybrid
 - 🔭 I’m currently working on ... website on Gender in Dance "[Beyond Boxes](https://sites.google.com/view/beyondboxes/we-share)" to highlight how gender empowers or inhibits movement and expression in dance
 - 🌱 I’m currently learning ... computer systems, android app dev
-- 📄 [Resume](https://drive.google.com/file/d/1hozIxggSffpbrZ5fHc8TnQtUCEUmB9-G/view?usp=sharing)
+- 📄 [Resume](https://drive.google.com/file/d/19HCn2SGtx-qnpMRuBHSP1qeyWJt2-ytV/view?usp=sharing)
 - 📫 Reach me at: hsichint@usc.edu
-- 😄 Pronouns: `[screw labels]`
+- 😄 Pronouns: `she, they`
 - 🙆‍♀️ Parts of me: `🌿nature lover` `💃dancer/choreographer` `⛰️hiker` `🍳brunch foodie` 
 
 #### ⚙️ Tech Stack
